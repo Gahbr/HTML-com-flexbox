@@ -6,4 +6,4 @@
 
 * HTML5
 * CSS3
-* Javascript
+* Javascript básico(abrir menu - versão mobile)
